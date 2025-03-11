@@ -12,8 +12,7 @@ y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de fo
 <p> Validar entrada: </p>
 -  Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.</p>
 <p>  Visualizar la lista: </p>  
--  Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
-
+-  Los nombres ingresados aparecerán en una lista debajo del campo de entrada.</p>
 <p>  Sorteo aleatorio: </p>  
 -  Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página. </p>
  
